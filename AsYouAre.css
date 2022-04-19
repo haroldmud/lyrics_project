@@ -1,0 +1,84 @@
+header {
+  font-family: "Trirong", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.aa {
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 10px;
+  padding: 10px;
+}
+.aa:hover {
+  color: cadetblue;
+}
+.ab {
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 10px;
+  padding: 10px;
+}
+.ab:hover {
+  color: cadetblue;
+}
+.ac {
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 10px;
+  padding: 10px;
+}
+.ac:hover {
+  color: cadetblue;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+h1 {
+  letter-spacing: 2px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-shadow: 12px;
+}
+h1 span {
+  color: red;
+  font-size: 4rem;
+}
+.heart {
+  color: black;
+}
+header {
+  outline: none;
+  width: 100%;
+  background-size: cover;
+}
+footer {
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.123);
+}
+
+section {
+  display: grid;
+  grid-template-columns: 20% 79.5%;
+  justify-content: space-between;
+}
+.menu {
+  background-color: rgba(100, 148, 237, 0.596);
+}
+.lyrics {
+  background-color: rgba(209, 243, 140, 0.589);
+  text-align: center;
+}
+/* #search{
+    right: 50px ;
+    position: absolute;
+}
+.ticon{
+    right: 40px ;
+    position: absolute;
+} */
